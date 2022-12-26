@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    border: 0;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.main-title {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.first-tab-title {
+    text-align: center;
+    margin-top: 3rem;
+}
+
+table,
+tr,
+td,
+th {
+    border: 2px solid #191970;
+    border-collapse: collapse;
+    
+}
+.discr{
+    text-align: left;
+}
+
+thead {
+    background-color: #87CEFA;
+}
+
+
+.table-1 {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.first-table{
+    width: 80%;
+}
